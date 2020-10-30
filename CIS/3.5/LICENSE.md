@@ -1,0 +1,2 @@
+Use of the software in this directory is subject to the terms and conditions of the 'Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX'
+which can be found at https://www.oracle.com/downloads/licenses/javase7-license.html#licenseContent
