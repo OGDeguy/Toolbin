@@ -1,0 +1,1 @@
+print "Python2 script executed"
